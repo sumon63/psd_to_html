@@ -1,0 +1,12 @@
+@media screen and (max-width: 980px){
+    .fix-container{
+        
+    }
+    .sidebar{
+        padding-left: 15px;
+        padding-bottom: 30px;
+    }
+    .single-sidebar input[type="submit"]{
+        margin-top: 20px;
+    }
+}
